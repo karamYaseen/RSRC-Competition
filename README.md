@@ -1,8 +1,8 @@
 # RSRC-Competition
 # Robot Speed Run Competition-2023
 
-Competition was in Port-Said 
-  The competition was under the supervision of IEEE Port-Said Branch
+  * Competition was in Port-Said 
+  * The competition was under the supervision of IEEE Port-Said Branch
   
   # Teammates:
  -  Our Mentor: [Mahmoud Ali](https://github.com/mahmoud-elbelasy)
