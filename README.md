@@ -1,7 +1,7 @@
 # RSRC-Competition
 # Robot Speed Run Competition-2023
 
-# Competition was in Port-Said 
+Competition was in Port-Said 
   The competition was under the supervision of IEEE Port-Said Branch
   
   # Teammates:
